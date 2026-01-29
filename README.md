@@ -224,4 +224,4 @@ Built for researchers, students, and knowledge workers.
 
 ## © Copyright
 
-Copyright © 2025 Suloni Praveen. All rights reserved
+Copyright © 2025 Suloni Praveen. All rights reserved.
